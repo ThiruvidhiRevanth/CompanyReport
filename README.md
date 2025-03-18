@@ -14,6 +14,6 @@ Excited to share a **comprehensive Power BI dashboard** that analyzes our compan
 - **DAX (Data Analysis Expressions)** – Advanced calculations  
 - **Power Query** – Data transformation and integration
 
-  ## Screenshots
-  https://github.com/ThiruvidhiRevanth/CompanyReport/blob/main/Screenshot_2025_0318_141035.jpg
+## Screenshots  
+![Dashboard Screenshot](https://github.com/ThiruvidhiRevanth/CompanyReport/blob/main/Screenshot_2025_0318_141035.jpg)
 
