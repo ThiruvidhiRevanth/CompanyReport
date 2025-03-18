@@ -15,5 +15,5 @@ Excited to share a **comprehensive Power BI dashboard** that analyzes our compan
 - **Power Query** – Data transformation and integration
 
   ## Screenshots
-  
+  Screenshot_2025_0318_141035.jpg
 
